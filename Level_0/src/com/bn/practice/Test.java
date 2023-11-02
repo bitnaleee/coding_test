@@ -22,6 +22,19 @@ public class Test {
 		
 	}
 	
+	// 문자열 출력하기
+	public void test2() {
+	
+		System.out.print("문자열 : ");
+        String str = sc.next();
+        int a = str.length();
+        if(a >= 1 && a <= 1000000) {
+            System.out.print(str);
+        }
+		
+	}
+	
+	
 	
 	
 	
