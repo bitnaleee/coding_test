@@ -8,8 +8,8 @@ public class Run {
 		
 		Test t = new Test();
 		//t.test1();
-		t.test2();
-		
+		//t.test2();
+		t.test3();
 		
 	}
 

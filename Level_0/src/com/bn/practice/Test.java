@@ -34,6 +34,23 @@ public class Test {
 		
 	}
 	
+	// a와 b 출력하기
+	public void test3() {
+		
+		System.out.print("정수1 : ");
+		int a = sc.nextInt();
+		System.out.print("정수2 : ");
+        int b = sc.nextInt();
+
+        System.out.println("a = " + a);
+        System.out.println("b = " + b);
+        
+	}
+	
+	
+
+	
+	
 	
 	
 	
